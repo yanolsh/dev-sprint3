@@ -1,0 +1,5 @@
+What does file.readline do?
+reads entire line from the file
+
+What does String.strip do?
+Return a copy of the string with leading and trailing characters removed. 
